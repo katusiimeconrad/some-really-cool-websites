@@ -16,3 +16,9 @@ https://revealjs.com
 1. SHADCN
    https://ui.shadcn.com
 
+
+
+# AI
+1. Single Camera Motion Capture
+https://www.move.ai
+
